@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Welcome to LAMP a la ve</title>
+        <title>Welcome t LAMP a la verg</title>
         <meta charset="utf-8">
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
